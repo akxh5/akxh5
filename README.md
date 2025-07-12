@@ -40,11 +40,4 @@ _“Between pixels and verses — I build, I feel, I flow.”_
 
 ---
 
-### 📊 GitHub Stats (Optional)
-
-```md
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akxh5&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akxh5&layout=compact&theme=radical" height="160"/>
-</p>
-
+### That's not All !
