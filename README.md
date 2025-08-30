@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFoMDEwNXd2cXExczJqMnJzeXI2Y3loODRpemU0NHFsZTJ3NDlkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" alt="Cool Animated GIF" width="600"/>
+</div>
 <h1 align="center">Hi, I'm Akshansh Sharma 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Web3+Builder;Poetry+meets+Code;Full+Stack+Dev+%7C+Privacy+Tech;Founder+%40+Oper8a;Exploring+MPC+%7C+Blockchain+Infra" alt="Typing SVG" />
