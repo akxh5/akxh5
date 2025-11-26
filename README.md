@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFoMDEwNXd2cXExczJqMnJzeXI2Y3loODRpemU0NHFsZTJ3NDlkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" alt="Cool Animated GIF" width="600"/>
 </div>
+
 # 💫 About Me:
 I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and useful. Always learning, always building.
 
