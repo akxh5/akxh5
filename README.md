@@ -2,11 +2,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFoMDEwNXd2cXExczJqMnJzeXI2Y3loODRpemU0NHFsZTJ3NDlkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" alt="Cool Animated GIF" width="600"/>
 </div>
 
-# 💫 About Me:
+# About Me:
 I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and useful. Always learning, always building.
 
 
-# 🌐 Socials
+# Connect With Me Here 
 
 <div align="center">
 
@@ -18,115 +18,134 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 </div>
 
-# 💻 Tech Stack
-
 <div align="center">
+# Technologies I Ship With
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 900px; margin: auto;">
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" width="48" height="48" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" width="48" height="48" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="48" height="48" alt="shadcn/ui" />
-      <br>shadcn/ui
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" width="48" height="48" alt="Next UI" />
-      <br>Next UI
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="48" height="48" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solana.png" width="48" height="48" alt="Solana" />
-      <br>Solana
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="48" height="48" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="48" height="48" alt="GCP" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="48" height="48" alt="CI/CD" />
-      <br>CI/CD
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="48" height="48" alt="Java" />
+<br>Java
+</div>
 
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" width="48" height="48" alt="Rust" />
+<br>Rust
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" width="48" height="48" alt="Solidity" />
+<br>Solidity
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="48" height="48" alt="React" />
+<br>React
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="48" height="48" alt="shadcn/ui" />
+<br>shadcn/ui
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" width="48" height="48" alt="Next UI" />
+<br>Next UI
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="48" height="48" alt="Spring Boot" />
+<br>Spring Boot
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solana.png" width="48" height="48" alt="Solana" />
+<br>Solana
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" width="48" height="48" alt="Ethereum" />
+<br>Ethereum
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" />
+<br>AWS
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="48" height="48" alt="GCP" />
+<br>GCP
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker" />
+<br>Docker
+</div>
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="48" height="48" alt="CI/CD" />
+<br>CI/CD
+</div>
+
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" height="48" alt="Git" />
+<br>Git
+</div>
+
+
+<div align="center" style="width: 80px;">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="48" height="48" alt="Postman" />
+<br>Postman
+</div>
+
+
+</div>
 </div>
 
 # 📊 GitHub Stats
