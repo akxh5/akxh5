@@ -6,9 +6,17 @@
 I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and useful. Always learning, always building.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akxh_5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshansh-sharma-256604332/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aksh11ansh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akxh5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aksh11ansh@gmail.com) 
+## 🌐 Socials
 
+<div align="center">
+
+<a href="https://instagram.com/akxh_5"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/akshansh-sharma-256604332/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@aksh11ansh"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/medium.png" width="48" height="48" alt="Medium" /></a>&nbsp;&nbsp;
+<a href="https://x.com/akxh5"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/x.png" width="48" height="48" alt="X" /></a>&nbsp;&nbsp;
+<a href="mailto:aksh11ansh@gmail.com"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gmail.png" width="48" height="48" alt="Email" /></a>
+
+</div>
 # 💻 Tech Stack
 
 <div align="center">
