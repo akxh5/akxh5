@@ -43,8 +43,16 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="48" height="48" alt="shadcn/ui" />
+      <br>shadcn/ui
+    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" width="48" height="48" alt="Next UI" />
+      <br>Next UI
+    </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="48" height="48" alt="Node.js" />
       <br>Node.js
@@ -76,21 +84,42 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" width="48" height="48" alt="Vercel" />
-      <br>Vercel
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" width="48" height="48" alt="GCP" />
+      <br>GCP
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="48" height="48" alt="CI/CD" />
+      <br>CI/CD
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
   </tr>
 </table>
 
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akxh5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akxh5&theme=tokyonight&hide_border=false)<br/>
