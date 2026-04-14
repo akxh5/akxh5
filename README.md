@@ -133,11 +133,13 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akxh5&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxh5&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxh5&theme=radical&utcOffset=5.5" />
 <br/><br/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=akxh5&theme=radical&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxh5&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxh5&theme=radical" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akxh5&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=akxh5&theme=radical&hide_border=true" width="100%" />
 
 </div>
 
@@ -145,7 +147,7 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akxh5&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=akxh5&theme=radical&no-frame=true&margin-w=6&column=7" />
 
 </div>
 
@@ -156,9 +158,6 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 <img src="https://github-contributor-stats.vercel.app/api?username=akxh5&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=akxh5&icon=8&color=6)](https://visitcount.itsvg.in)
-
 
 I'm the kind of dev who writes poetry in between commits.  
 _“Between pixels and verses — I build, I feel, I flow.”_
