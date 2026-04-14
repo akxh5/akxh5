@@ -10,13 +10,14 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 <div align="center">
 
-<a href="https://instagram.com/akxh_5"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/akshansh-sharma-256604332/"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@aksh11ansh"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/medium.png" width="48" height="48" alt="Medium" /></a>&nbsp;&nbsp;
-<a href="https://x.com/akxh5"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/x.png" width="48" height="48" alt="X" /></a>&nbsp;&nbsp;
-<a href="mailto:aksh11ansh@gmail.com"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gmail.png" width="48" height="48" alt="Email" /></a>
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akxh_5)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshansh-sharma-256604332/)&nbsp;
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aksh11ansh)&nbsp;
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akxh5)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksh11ansh@gmail.com)
 
 </div>
+
 # 💻 Tech Stack
 
 <div align="center">
