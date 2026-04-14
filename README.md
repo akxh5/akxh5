@@ -5,7 +5,6 @@
 # About Me:
 I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and useful. Always learning, always building.
 
-
 # Connect With Me Here 
 
 <div align="center">
@@ -18,8 +17,6 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 </div>
 
-<div align="center">
-   
 # Technologies I Ship With
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 18px; max-width: 900px; margin: auto;">
