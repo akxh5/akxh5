@@ -129,17 +129,33 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akxh5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akxh5&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akxh5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akxh5&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<br/><br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=akxh5&theme=radical&hide_border=true" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akxh5&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akxh5&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akxh5&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" />
+
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akxh5&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=akxh5&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=akxh5&icon=8&color=6)](https://visitcount.itsvg.in)
 
