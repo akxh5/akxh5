@@ -6,7 +6,7 @@
 I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and useful. Always learning, always building.
 
 
-## 🌐 Socials
+# 🌐 Socials
 
 <div align="center">
 
