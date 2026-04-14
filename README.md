@@ -151,13 +151,14 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 </div>
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 
 <div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=akxh5&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
+-->
 
 I'm the kind of dev who writes poetry in between commits.  
 _“Between pixels and verses — I build, I feel, I flow.”_
