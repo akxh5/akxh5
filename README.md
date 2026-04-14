@@ -157,6 +157,7 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 </div>
 -->
+---
 
 I'm the kind of dev who writes poetry in between commits.  
 _“Between pixels and verses — I build, I feel, I flow.”_
