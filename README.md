@@ -145,7 +145,7 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 <div align="center">
 
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=akxh5&theme=radical&no-frame=true&margin-w=6&column=7&rank=-C,-B" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=akxh5&theme=dark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
