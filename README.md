@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFoMDEwNXd2cXExczJqMnJzeXI2Y3loODRpemU0NHFsZTJ3NDlkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" alt="Cool Animated GIF" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFoMDEwNXd2cXExczJqMnJzeXI2Y3loODRpemU0NHFsZTJ3NDlkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" alt="Cool [...]"/>
 </div>
 
 # About Me:
-I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and useful. Always learning, always building.
+I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and u[...]
 
 # Connect With Me Here:
 
@@ -145,7 +145,9 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akxh5&theme=dark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akxh5&theme=dark&column=3&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
 
 </div>
 
@@ -165,3 +167,4 @@ _“Between pixels and verses — I build, I feel, I flow.”_
 ---
 
 ### That's not All !
+
