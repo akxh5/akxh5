@@ -147,24 +147,6 @@ Always building, always learning.
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=akxh5&theme=dark&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=akxh5&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-
-</div>
-
 ---
 
 I'm the kind of dev who writes poetry in between commits.  
