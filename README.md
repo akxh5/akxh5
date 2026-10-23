@@ -3,7 +3,13 @@
 </div>
 
 # About Me:
-I’m a developer who enjoys building practical, reliable tools and exploring new ideas. I work across web, backend, and blockchain, and I like keeping my projects straightforward, efficient, and u[...]
+### Hey, I'm a developer who likes figuring things out by building.
+
+Building **Syn8x** and developing **EPIC** — a semantic security tool for smart contracts.
+
+Into Rust, Solana, developer tooling, and understanding how things work under the hood.
+
+Always building, always learning.
 
 # Connect With Me Here:
 
@@ -151,14 +157,14 @@ I’m a developer who enjoys building practical, reliable tools and exploring ne
 
 </div>
 
-<!--### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 
 <div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=akxh5&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 
 </div>
--->
+
 ---
 
 I'm the kind of dev who writes poetry in between commits.  
